@@ -93,7 +93,7 @@ A1版（新版） https://github.com/lan-tianxiang/js_tool
 
 ## `Windows10` 
 
-- [Win10安装 WSL Ubuntu](https://github.com/lan-tianxiang/js_tool/wiki/Win10)  🔻
+- [Win10安装 WSL Ubuntu](https://github.com/SQDFeng/JS_TOOL/wiki/Win10)  🔻
 
 
 ***
